@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Agrim Rai</h1>
 <h3 align="center">CS Undergrad At BITS Goa</h3>
 
-- 🌱 I’m currently learning **JavaScript, Android Development**
 
 <p align="left">
 </p>
